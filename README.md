@@ -1,8 +1,4 @@
-# COOL-NOOK-SIC-E6 ⚙️
-
-Proyecto COOL NOOK Equipo 6 SIC 2023
-
-## API para uso de ChatGPT
+# API para uso de ChatGPT como Cheft
 
 ### Instalación del Server Express JS
 - Clona este repositorio: `git clone <URL del repositorio>`
