@@ -1,4 +1,4 @@
-# API para uso de ChatGPT como Cheft
+# API para uso de ChatGPT 🤖 como Chef 🧑‍🍳
 
 ### Instalación del Server Express JS
 - Clona este repositorio: `git clone <URL del repositorio>`
